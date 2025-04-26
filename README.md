@@ -1,0 +1,1 @@
+# Support-Vector-Machines-for-Wine-Quality-and-Admission-Prediction
